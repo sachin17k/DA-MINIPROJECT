@@ -1,0 +1,6 @@
+Product_ID,Source,Destination,Distance_km,Expected_Time_hr,Actual_Time_hr,Transportation_Cost
+P1001,Chennai,Bangalore,350,6,8,5000
+P1002,Chennai,Hyderabad,630,10,9,7000
+P1003,Bangalore,Mumbai,980,15,18,12000
+P1004,Delhi,Chennai,2200,30,28,20000
+P1005,Mumbai,Delhi,1400,20,22,15000
